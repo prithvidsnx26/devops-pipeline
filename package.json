@@ -1,0 +1,21 @@
+{
+  "name": "devops-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "nide test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prithvidsnx26/devops-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prithvidsnx26/devops-pipeline/issues"
+  },
+  "homepage": "https://github.com/prithvidsnx26/devops-pipeline#readme"
+}
